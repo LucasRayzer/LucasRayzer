@@ -1,5 +1,8 @@
 ### Olá! Eu sou o Lucas Rayzer👋
- Atualmente estou no 6° período do curso de Engenharia de Software na UDESC-CEAVI!
+<div style= "display: inline_block"><br> 
+   Atualmente estou no 6° período do curso de Engenharia de Software na UDESC-CEAVI!
+</div><br/>
+ 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rayzer-05a837236/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rayzer.lucas/)
 
