@@ -6,7 +6,7 @@ Atualmente, estou no 6° período do curso de Engenharia de Software na UDESC-CE
 
 ![Rayzer's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasRayzer&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRayzer&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRayzer&layout=compact&theme=dracula)
 
 
 ## Tecnologias que utilizo no dia a dia
