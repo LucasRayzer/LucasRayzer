@@ -8,6 +8,7 @@ Atualmente, estou no 6° período do curso de Engenharia de Software na UDESC-CE
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRayzer&layout=compact&theme=dracula)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/LucasRayzer/github-readme-stats)
 
 ## Tecnologias que utilizo no dia a dia
 <div style= "display: inline_block"><br> 
