@@ -4,11 +4,9 @@ Atualmente, estou no 6° período do curso de Engenharia de Software na UDESC-CE
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rayzer-05a837236/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rayzer.lucas/)
 
-![Rayzer's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasRayzer&show_icons=true&theme=dracula)
+![Rayzer's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasRayzer&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRayzer&layout=compact&theme=dracula)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/LucasRayzer/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRayzer&layout=compact&theme=dark)
 
 ## Tecnologias que utilizo no dia a dia
 <div style= "display: inline_block"><br> 
