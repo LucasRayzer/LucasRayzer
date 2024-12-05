@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Lucas Rayzer👋
-Atualmente, estou no 6° período do curso de Engenharia de Software na UDESC-CEAVI!</br>
+Atualmente, estou no 7° período do curso de Engenharia de Software na UDESC-CEAVI!</br>
 Atuando como estagiário no Escritório Modelo de Pesquisa e Desenvolvimento de Software (EMPDS).
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rayzer-05a837236/)
