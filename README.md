@@ -7,7 +7,7 @@ Atuei um ano e três meses como estagiário no Escritório Modelo de Pesquisa e 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rayzer-05a837236/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rayzer.lucas/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasRayzer&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LucasRayzer&theme=dark&hide_border=true&short_numbers=true&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 ## Tecnologias que utilizo no dia a dia
 <div style= "display: inline_block"><br> 
